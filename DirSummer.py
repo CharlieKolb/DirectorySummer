@@ -4,6 +4,7 @@ from collections import deque, namedtuple
 '''
 ToDo:
 - Flags:
+    -start_path                                 optional start_path different of script path
     -help                                       help
     -abs_path                                   signals that we print the absolute path, not the one relative to the starting path
     -flat                                       signals we only care about data in this directory, ignoring children
